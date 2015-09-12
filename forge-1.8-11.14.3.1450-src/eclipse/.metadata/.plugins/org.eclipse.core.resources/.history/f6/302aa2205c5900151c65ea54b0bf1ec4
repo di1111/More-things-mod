@@ -1,0 +1,7 @@
+package com.dylan.item;
+
+import net.minecraft.item.Item;
+
+public class DiamondStick extends Item {
+
+}
