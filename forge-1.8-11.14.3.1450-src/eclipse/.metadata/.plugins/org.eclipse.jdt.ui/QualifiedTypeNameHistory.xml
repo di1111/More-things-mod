@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="com.dylan.morethingsmod.Morethingsmod"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+</qualifiedTypeNameHistroy>

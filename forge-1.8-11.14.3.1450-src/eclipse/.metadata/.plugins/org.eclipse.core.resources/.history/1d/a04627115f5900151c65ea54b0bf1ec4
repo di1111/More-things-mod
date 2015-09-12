@@ -12,10 +12,6 @@ public class ItemManager {
     }
  
     public static void initializeItem() {
-    	
-    	goldStick = new GoldStick();
-    	ironStick = new IronStick();
-    	diamondStick = new DiamondStick();
  
     }
  
