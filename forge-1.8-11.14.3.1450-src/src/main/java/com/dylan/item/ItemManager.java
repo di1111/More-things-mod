@@ -1,5 +1,7 @@
 package com.dylan.item;
 
+import net.minecraftforge.fml.common.registry.GameRegistry;
+
 public class ItemManager {
 	
 	public static GoldStick goldStick;
@@ -20,6 +22,10 @@ public class ItemManager {
     }
  
     public static void registerItem() {
+    	
+    	GameRegistry.registerItem(goldStick, GoldStick.name);
+    	GameRegistry.registerItem(ironStick, IronStick.name);
+    	GameRegistry.registerItem(diamondStick, DiamondStick.name);
  
     }
 
