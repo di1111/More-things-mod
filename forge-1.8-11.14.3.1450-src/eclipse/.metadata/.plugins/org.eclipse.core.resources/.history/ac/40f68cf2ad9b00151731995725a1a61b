@@ -1,0 +1,14 @@
+package com.dylan.item;
+
+import net.minecraft.item.ItemPickaxe;
+
+public class SuperIronPickaxe extends ItemPickaxe{
+	
+	public static final String name = "SuperIronPickaxe"
+	
+	public SuperIronPickaxe(){
+		super();
+		
+	}
+
+}
