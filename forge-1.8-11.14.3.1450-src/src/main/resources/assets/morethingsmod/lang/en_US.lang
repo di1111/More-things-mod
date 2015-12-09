@@ -1,3 +1,9 @@
 item.Morethingsmod_GoldStick.name= Gold Stick
 item.Morethingsmod_IronStick.name= Iron Stick
 item.Morethingsmod_DiamondStick.name= Diamond Stick
+
+item.Morethingsmod_OkIronPickaxe.name= Ok Iron Pickaxe
+item.Morethingsmod_SuperIronPickaxe.name= Super Iron Pickaxe
+item.Morethingsmod_AwesomeIronPickaxe.name= Awesome Iron Pickaxe
+
+tile.Morethingsmod_Cat.name= Cat Block
